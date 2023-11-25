@@ -1,0 +1,269 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2022 The MathWorks, Inc.
+             R2022b Update 1 (9.13.0.2080170) 64-bit (glnxa64)
+                             September 28, 2022
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to the parallel pool (number of workers: 20).
+
+ans = 
+
+ ProcessPool with properties: 
+
+            Connected: true
+           NumWorkers: 20
+                 Busy: false
+              Cluster: Processes (Local Cluster)
+        AttachedFiles: {}
+    AutoAddClientPath: true
+            FileStore: [1x1 parallel.FileStore]
+           ValueStore: [1x1 parallel.ValueStore]
+          IdleTimeout: 30 minutes (30 minutes remaining)
+          SpmdEnabled: true
+
+[Warning: File:
+/nfs/turbo/med-kayvan-lab/Projects/Polytrauma/Code/Members/hodgman/PreprocessHematoma/data_preparation/preprocess.m
+Line: 57 Column: 9
+The temporary variable 'info' will be cleared at the beginning of each
+iteration of the parfor-loop. If 'info' is used before it is set, a runtime
+error will occur. For more information, see Parallel for Loops in MATLAB,
+"Uninitialized Temporaries".] 
+[> In runPreprocess (line 3)] 
+[Warning: File:
+/nfs/turbo/med-kayvan-lab/Projects/Polytrauma/Code/Members/hodgman/PreprocessHematoma/data_preparation/preprocess.m
+Line: 198 Column: 13
+The temporary variable 'endInstanceIdx' will be cleared at the beginning of
+each iteration of the parfor-loop. If 'endInstanceIdx' is used before it is
+set, a runtime error will occur. For more information, see Parallel for Loops
+in MATLAB, "Uninitialized Temporaries".] 
+[> In runPreprocess (line 3)] 
+number of patients: 220Processing 1 to 220
+Processing 1
+Processing 10
+Processing 100
+Processing 101
+Processing 102
+Processing 103
+Processing 104
+Processing 105
+Processing 106
+Processing 107
+Processing 108
+Processing 109
+Processing 11
+Processing 110
+Processing 111
+Processing 112
+Processing 113
+Processing 114
+Processing 115
+Processing 116
+Processing 215
+Processing 201
+Processing 22
+Processing 247
+Processing 260
+Processing 233
+Processing 251
+Processing 134
+Processing 256
+Processing 13
+Processing 17
+Processing 120
+Processing 139
+Processing 210
+Processing 206
+Processing 125
+Processing 224
+Processing 238
+Processing 242
+Processing 214
+Processing 219
+Processing 229
+Processing 246
+Processing 250
+Processing 133
+Processing 232
+Processing 20
+Processing 129
+Processing 205
+Processing 138
+Processing 16
+Processing 223
+Processing 255
+Processing 124
+Processing 241
+Processing 12
+Processing 21
+Processing 25
+Processing 231
+Processing 245
+Processing 218
+Processing 237
+Processing 228
+Processing 26
+Processing 132
+Processing 2
+Processing 254
+Processing 128
+Processing 204
+Processing 222
+Processing 137
+Processing 213
+Processing 217
+Processing 240
+Processing 123
+Processing 249
+Processing 119
+Processing 244
+Processing 15
+Processing 227
+Processing 131
+Processing 19
+No series for patient 64
+Processing 209
+Processing 208
+Processing 230
+Processing 127
+Processing 203
+Processing 216
+Processing 236
+Processing 253
+Processing 212
+Processing 248
+Processing 221
+Processing 122
+Processing 136
+Processing 24
+Processing 259
+No series for patient 97
+Processing 140
+Processing 23
+Processing 243
+Processing 118
+Processing 130
+Processing 252
+Processing 226
+Processing 126
+Processing 266
+Processing 28
+Processing 207
+Processing 18
+Processing 211
+Processing 235
+Processing 121
+Processing 202
+Processing 258
+Processing 14
+Processing 220
+Processing 117
+Processing 271
+Processing 282
+Processing 135
+Processing 265
+Processing 225
+Processing 290
+Processing 239
+Processing 279
+Processing 285
+Processing 277
+Processing 269
+Processing 296
+Processing 234
+Processing 278
+Processing 257
+Processing 33
+Processing 300
+Processing 263
+Processing 36
+No series for patient 132
+Processing 270
+Processing 27
+Processing 281
+Processing 264
+Processing 41
+Processing 40
+Processing 32
+Processing 29
+Processing 288
+Processing 268
+Processing 284
+Processing 293
+Processing 299
+Processing 30
+Processing 295
+Processing 262
+Processing 44
+Processing 46
+Processing 35
+Processing 276
+Processing 39
+Processing 47
+Processing 280
+Processing 267
+Processing 4
+Processing 292
+Processing 298
+Processing 294
+Processing 261
+Processing 43
+Processing 283
+Processing 274
+Processing 31
+Processing 289
+Processing 45
+Processing 3
+Processing 38
+Processing 275
+Processing 52
+Processing 34
+Processing 291
+Processing 287
+Processing 48
+Processing 53
+Processing 81
+Processing 273
+Processing 42
+Processing 50
+Processing 54
+No series for patient 191
+Processing 49
+Processing 55
+Processing 7
+Processing 56
+Processing 5
+Processing 83
+Processing 59
+Processing 297
+Processing 51
+Processing 88
+Processing 85
+Processing 286
+Processing 86
+Processing 89
+Processing 87
+Processing 91
+Processing 57
+Processing 6
+Processing 94
+Processing 84
+Processing 37
+Processing 93
+Processing 60
+Processing 95
+Processing 90
+Processing 272
+Processing 58
+Processing 92
+Processing 99
+Processing 98
+Processing 97
+Processing 96
+Processing 8
+Processing 9
+Processing 82
